@@ -1,0 +1,3 @@
+# app-ads.txt for azaddigitalsystems.com
+# Paste the one-line AdMob entry below when supplied, e.g.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
